@@ -1,0 +1,30 @@
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csprojAssemblyReference.cache
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\App.g.cs
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6_MarkupCompile.cache
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6_MarkupCompile.lref
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.exe.config
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.exe
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.pdb
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\MainWindow.baml
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.g.resources
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.Properties.Resources.resources
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csproj.GenerateResource.cache
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csproj.CoreCompileInputs.cache
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.exe
+C:\Users\Piotr Gago\Desktop\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.pdb
+Z:\APBD\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.exe.config
+Z:\APBD\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.exe
+Z:\APBD\Cwiczenia6\Cwiczenia6\bin\Debug\Cwiczenia6.pdb
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csprojAssemblyReference.cache
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\MainWindow.g.cs
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\App.g.cs
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6_MarkupCompile.cache
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6_MarkupCompile.lref
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\MainWindow.baml
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.g.resources
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.Properties.Resources.resources
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csproj.GenerateResource.cache
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.csproj.CoreCompileInputs.cache
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.exe
+Z:\APBD\Cwiczenia6\Cwiczenia6\obj\Debug\Cwiczenia6.pdb

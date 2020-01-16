@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Out first page</title>
+        <link rel="stylesheet" type="text/css" href="site.css" />
+    </head>
+<body>
+
+    <div class = "container">
+        <article class="blog-post">
+            <h1>First post</h1>
+            <aside class="date">May 21, 2019</aside>
+            <h2>This is subtitle of my first post</h2>
+
+            <section class="main-text">
+                    Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+                    Aenean commodo ligula eget dolor. Aenean massa.
+                    Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+                    Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+                    Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+                    In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium.
+            </section>
+
+            <a href="http://www/.udemy.com">Link to udemy</a>
+            <a href="html5.png" target="_blank">HTML logo</a>
+
+            <h2>This is just another subtitle to the same post</h2>
+            <section class="main-text">
+                    Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.
+                    In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+            </section>
+            <img class="html-logo" src ="html5.png" alt="The HTML5 logo">
+        </article>
+
+        <nav class="other-posts">
+            <section class="other">
+                Article 1
+            </section>
+            <section class="other">
+                Article 2
+            </section>
+            <section class="other">
+                Article 3
+            </section>
+        </nav>
+
+        <div class="clearfix"></div>
+
+        <aside class="author-info">
+            <img src="author.png" alt="Author logo">
+            <p class="author-text">Lucille Howard</p>
+        </aside>
+    </div>
+
+
+    <div id="loc"></div>
+    <script>
+        var x = document.getElementById("loc");
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition);
+            } else {
+                x.innerHTML = "Geolocation is not supported by this browser.";
+            }
+        }
+
+        function showPosition(position) {
+            x.innerHTML = "Latitude: " + position.coords.latitude + "<br>Longitude: " + position.coords.longitude;
+        }
+        getLocation();
+    </script>
+
+</body>
+</html>

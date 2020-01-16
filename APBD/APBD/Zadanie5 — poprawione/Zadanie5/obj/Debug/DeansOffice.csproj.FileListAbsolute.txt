@@ -1,0 +1,34 @@
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe.config
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\bin\Debug\Zadanie5.exe
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\bin\Debug\Zadanie5.pdb
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\DeansOffice.csprojAssemblyReference.cache
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\DodajStudenta.g.cs
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\MainWindow.g.cs
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\App.g.cs
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.cache
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.lref
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\MainWindow.baml
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\DodajStudenta.baml
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5.g.resources
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5.Properties.Resources.resources
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\DeansOffice.csproj.GenerateResource.cache
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\DeansOffice.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5.exe
+C:\Users\Maciej\Desktop\Zadanie5\Zadanie5\obj\Debug\Zadanie5.pdb
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\bin\Debug\Zadanie5.exe.config
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\bin\Debug\Zadanie5.exe
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\bin\Debug\Zadanie5.pdb
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\DeansOffice.csprojAssemblyReference.cache
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\DodajStudenta.g.cs
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\MainWindow.g.cs
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\App.g.cs
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.cache
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5_MarkupCompile.lref
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\DodajStudenta.baml
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\MainWindow.baml
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5.g.resources
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5.Properties.Resources.resources
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\DeansOffice.csproj.GenerateResource.cache
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\DeansOffice.csproj.CoreCompileInputs.cache
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5.exe
+Z:\APBD\Zadanie5 — poprawione\Zadanie5\obj\Debug\Zadanie5.pdb

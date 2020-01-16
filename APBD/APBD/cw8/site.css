@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Helvetica, Neue, Arial;
+}
+
+h1, h2 {
+    color: rgba(40, 120, 70, 0.75);
+    font-size: 40px;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.main-text  {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+.blog-post img {
+    width: 100px;
+    height: auto;
+}
+
+.container {
+    width: 1140px;
+    margin: 20px auto 0 auto;
+}
+
+.blog-post {
+    width: 75%;
+    float: left;
+    padding-right: 30px;
+    position: relative;
+}
+
+.other-posts {
+    width: 25%;
+    float: left;
+}
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.author-info {
+    padding-top: 20px;
+    border-top: 1px solid #333;
+}
+
+.author-info img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+}
+
+.author-text {
+    font-size: 22px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.date {
+    position: absolute;
+    top: 0;
+    right: 30px;
+}

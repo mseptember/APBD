@@ -1,0 +1,47 @@
+﻿
+@model IEnumerable<APBD10.Models.Student>
+
+@{
+    ViewData["Title"] = "Students";
+}
+
+<h1>Students</h1>
+
+<p>
+    <a asp-action="Create" class="btn-floating green btn-small"><i class="large material-icons">add</i></a>
+</p>
+<table class="table grey black-text">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Studies)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Studies.Name)
+                </td>
+                <td>
+                    <a asp-action="Delete" asp-route-id="@item.IdStudent" class="btn-floating tooltipped red btn-small" data-position="top" data-tooltip="Delete"><i class="large material-icons">delete</i></a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

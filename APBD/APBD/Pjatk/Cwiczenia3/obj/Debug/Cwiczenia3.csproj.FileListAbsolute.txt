@@ -1,0 +1,17 @@
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\bin\Debug\Cwiczenia3.exe.config
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\bin\Debug\Cwiczenia3.exe
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\bin\Debug\Cwiczenia3.pdb
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.csprojAssemblyReference.cache
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\MainWindow.g.cs
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\App.g.cs
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3_MarkupCompile.cache
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3_MarkupCompile.lref
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\MainWindow.baml
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.g.resources
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.Properties.Resources.resources
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.csproj.GenerateResource.cache
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.csproj.CoreCompileInputs.cache
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.exe
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Cwiczenia3.pdb
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Zadanie2.g.cs
+C:\Users\s17390\Desktop\Pjatk\Cwiczenia3\obj\Debug\Zadanie2.baml

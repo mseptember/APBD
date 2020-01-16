@@ -1,0 +1,27 @@
+﻿<Window x:Class="Kolokwium1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kolokwium1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="13*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        
+        <Label Grid.Row="0" Content="Animals" VerticalContentAlignment="Bottom" FontSize="20"></Label>
+        <DataGrid Name="DgvAnimals" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="First name (owner)" Binding="{Binding Owner.LastName}" Width="*"/>
+                <DataGridTextColumn Header="Last name (owner)" Binding="{Binding Owner.FirstName}" Width="*"/>
+                <DataGridTextColumn Header="Name of animal" Binding="{Binding Name}" Width="*"/>
+                <DataGridTextColumn Header="Animal type" Binding="{Binding AnimalType.Name}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Name="BtnAddAnimal" Grid.Row="2" Content="Add animal" HorizontalAlignment="Left" Margin="20 10 20 10" Width="100" Click="BtnAddAnimal_Click"></Button>
+    </Grid>
+</Window>

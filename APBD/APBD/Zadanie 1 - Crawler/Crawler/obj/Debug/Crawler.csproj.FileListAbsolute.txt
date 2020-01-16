@@ -1,0 +1,32 @@
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/Crawler.exe.config
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/Crawler.exe
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/Crawler.pdb
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/HtmlAgilityPack.dll
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/HtmlAgilityPack.pdb
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/bin/Debug/HtmlAgilityPack.xml
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/obj/Debug/Crawler.csprojResolveAssemblyReference.cache
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/obj/Debug/Crawler.csproj.CoreCompileInputs.cache
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/obj/Debug/Crawler.exe
+C:/Users/Piotr Gago/Desktop/Zadanie/Crawler/Crawler/obj/Debug/Crawler.pdb
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/obj/Debug/Crawler.csprojAssemblyReference.cache
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/obj/Debug/Crawler.csproj.CoreCompileInputs.cache
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/obj/Debug/Crawler.exe
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/obj/Debug/Crawler.pdb
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/Crawler.exe.config
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/Crawler.exe
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/Crawler.pdb
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/HtmlAgilityPack.dll
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/HtmlAgilityPack.pdb
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/bin/Debug/HtmlAgilityPack.xml
+/Users/maciejseptember/Downloads/Zadanie 1 - Crawler/Crawler/obj/Debug/Crawler.csproj.CopyComplete
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe.config
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.exe
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\Crawler.pdb
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.dll
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.pdb
+Z:\APBD\Zadanie 1 - Crawler\Crawler\bin\Debug\HtmlAgilityPack.xml
+Z:\APBD\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csprojAssemblyReference.cache
+Z:\APBD\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CoreCompileInputs.cache
+Z:\APBD\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.csproj.CopyComplete
+Z:\APBD\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.exe
+Z:\APBD\Zadanie 1 - Crawler\Crawler\obj\Debug\Crawler.pdb

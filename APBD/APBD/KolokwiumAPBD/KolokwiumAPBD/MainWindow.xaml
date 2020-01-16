@@ -1,0 +1,48 @@
+﻿<Window x:Class="KolokwiumAPBD.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KolokwiumAPBD"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="7*"/>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <DataGrid Name="EmpsDataGrid" AutoGenerateColumns="False" Grid.ColumnSpan="4" CanUserAddRows="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="Employee" Binding="{Binding ENAME}"/>
+                <DataGridTextColumn Width="*" Header="Job" Binding="{Binding JOB}"/>
+                <DataGridTextColumn Width="*" Header="Department name" Binding="{Binding DEPT.DNAME}"/>
+                <DataGridTextColumn Width="*" Header="Salary" Binding="{Binding SAL}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Label Content="Dodaj pracownika" Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center"/>
+        <Label Content="Name" Grid.Row="2" HorizontalAlignment="Center"/>
+        <Label Content="Job" Grid.Row="3" HorizontalAlignment="Center"/>
+        <Label Content="Department" Grid.Row="4" HorizontalAlignment="Center"/>
+        <TextBox Name="NameTextBox" Grid.Row="2" Grid.Column="1" Margin="5"/>
+        <TextBox Name="JobTextBox" Grid.Row="3" Grid.Column="1" Margin="5"/>
+        <ComboBox Name="DepartmentComboBox" DisplayMemberPath="DNAME" Grid.Row="4" Grid.Column="1" Margin="5"/>
+        <Button Name="AddButton" Content="Dodaj" Grid.Column="1" Grid.Row="5" HorizontalAlignment="Right" Margin="5" Padding="10 0 10 0" Click="AddButton_Click"/>
+
+        <Label Content="Szukaj" Grid.Row="1" Grid.Column="2" HorizontalAlignment="Center"/>
+        <TextBox Name="SearchTextBox" Grid.Row="1" Grid.Column="3" Margin="5"/>
+        <Button Name="SearchButton" Content="Szukaj" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Left" Margin="5" Padding="10 0 10 0" Click="SearchButton_Click"/>
+        <Button Name="ShowButton" Content="Pokaż wszystkich" Grid.Column="3" Grid.Row="2" HorizontalAlignment="Right" Margin="5" Padding="10 0 10 0" Click="ShowButton_Click"/>
+    </Grid>
+</Window>
